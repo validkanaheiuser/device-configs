@@ -1,14 +1,15 @@
 {
   "PACKAGES_BLACK_SHARK_4_(CHINA)": [],
   "PACKAGES_BLACK_SHARK_4_(CHINA)_DEVICE": {
-    "profile_name": "BLACK_SHARK_4_(CHINA)",
-    "MANUFACTURER": "Xiaomi",
-    "MODEL": "2SM-X706B",
-    "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
-    "BOARD": "penrose",
-    "HARDWARE": "qcom",
-    "PLATFORM": "",
-    "CHIPNAME": "kona"
+      "profile_name": "BLACK_SHARK_4_(CHINA)",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "2SM-X706B",
+      "FINGERPRINT": "BlackShark/PRS-H0/Black Shark 4:13/TQ3A.230805.001/20230315:user/release-keys",
+      "BOARD": "penrose",
+      "HARDWARE": "qcom",
+      "PLATFORM": "",
+      "CHIPNAME": "kona",
+      "GFX_DRIVER": "com.qualcomm.qti.gpudrivers.kona.api30"
   },
   "PACKAGES_FIND_N2_FLIP": [],
   "PACKAGES_FIND_N2_FLIP_DEVICE": {
@@ -663,3 +664,4 @@
     "DEBUG": false
   }
 }
+
