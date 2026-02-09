@@ -1,7 +1,5 @@
 {
-  "PACKAGES_BLACK_SHARK_4_(CHINA)": [
-    "com.facebook.rvx19"
-  ],
+  "PACKAGES_BLACK_SHARK_4_(CHINA)": [],
   "PACKAGES_BLACK_SHARK_4_(CHINA)_DEVICE": {
     "profile_name": "BLACK_SHARK_4_(CHINA)",
     "MANUFACTURER": "Xiaomi",
@@ -12,9 +10,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kona"
   },
-  "PACKAGES_FIND_N2_FLIP": [
-    "com.facebook.rvx20"
-  ],
+  "PACKAGES_FIND_N2_FLIP": [],
   "PACKAGES_FIND_N2_FLIP_DEVICE": {
     "profile_name": "FIND_N2_FLIP",
     "MANUFACTURER": "Oppo",
@@ -25,9 +21,7 @@
     "PLATFORM": "MT6983",
     "CHIPNAME": "mt6983"
   },
-  "PACKAGES_FIND_X5": [
-    "com.facebook.rvx23"
-  ],
+  "PACKAGES_FIND_X5": [],
   "PACKAGES_FIND_X5_DEVICE": {
     "profile_name": "FIND_X5",
     "MANUFACTURER": "Oppo",
@@ -38,9 +32,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_FIND_X6": [
-    "com.facebook.rvx21"
-  ],
+  "PACKAGES_FIND_X6": [],
   "PACKAGES_FIND_X6_DEVICE": {
     "profile_name": "FIND_X6",
     "MANUFACTURER": "Oppo",
@@ -51,9 +43,7 @@
     "PLATFORM": "MT6985",
     "CHIPNAME": "mt6985"
   },
-  "PACKAGES_FIND_X6_PRO": [
-    "com.facebook.rvx22"
-  ],
+  "PACKAGES_FIND_X6_PRO": [],
   "PACKAGES_FIND_X6_PRO_DEVICE": {
     "profile_name": "FIND_X6_PRO",
     "MANUFACTURER": "Oppo",
@@ -64,9 +54,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_GALAXY_A54_5G": [
-    "com.facebook.thuhong"
-  ],
+  "PACKAGES_GALAXY_A54_5G": [],
   "PACKAGES_GALAXY_A54_5G_DEVICE": {
     "profile_name": "GALAXY_A54_5G",
     "MANUFACTURER": "Samsung",
@@ -77,9 +65,7 @@
     "PLATFORM": "",
     "CHIPNAME": "exynos1380"
   },
-  "PACKAGES_GALAXY_S22": [
-    "com.facebook.rvx9"
-  ],
+  "PACKAGES_GALAXY_S22": [],
   "PACKAGES_GALAXY_S22_DEVICE": {
     "profile_name": "GALAXY_S22",
     "MANUFACTURER": "Samsung",
@@ -90,9 +76,7 @@
     "PLATFORM": "",
     "CHIPNAME": "exynos2200"
   },
-  "PACKAGES_GALAXY_S22_PLUS": [
-    "com.facebook.rvx10"
-  ],
+  "PACKAGES_GALAXY_S22_PLUS": [],
   "PACKAGES_GALAXY_S22_PLUS_DEVICE": {
     "profile_name": "GALAXY_S22_PLUS",
     "MANUFACTURER": "Samsung",
@@ -103,9 +87,7 @@
     "PLATFORM": "",
     "CHIPNAME": "exynos2200"
   },
-  "PACKAGES_GALAXY_S22_ULTRA": [
-    "com.facebook.rvx11"
-  ],
+  "PACKAGES_GALAXY_S22_ULTRA": [],
   "PACKAGES_GALAXY_S22_ULTRA_DEVICE": {
     "profile_name": "GALAXY_S22_ULTRA",
     "MANUFACTURER": "Samsung",
@@ -116,9 +98,7 @@
     "PLATFORM": "",
     "CHIPNAME": "exynos2200"
   },
-  "PACKAGES_GALAXY_S23": [
-    "com.facebook.rvx12"
-  ],
+  "PACKAGES_GALAXY_S23": [],
   "PACKAGES_GALAXY_S23_DEVICE": {
     "profile_name": "GALAXY_S23",
     "MANUFACTURER": "Samsung",
@@ -129,9 +109,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_GALAXY_S23_PLUS": [
-    "com.facebook.rvx13"
-  ],
+  "PACKAGES_GALAXY_S23_PLUS": [],
   "PACKAGES_GALAXY_S23_PLUS_DEVICE": {
     "profile_name": "GALAXY_S23_PLUS",
     "MANUFACTURER": "Samsung",
@@ -142,9 +120,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_GALAXY_S23_ULTRA": [
-    "com.facebook.rvx14"
-  ],
+  "PACKAGES_GALAXY_S23_ULTRA": [],
   "PACKAGES_GALAXY_S23_ULTRA_DEVICE": {
     "profile_name": "GALAXY_S23_ULTRA",
     "MANUFACTURER": "Samsung",
@@ -155,9 +131,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_GALAXY_Z_FLIP5": [
-    "com.facebook.rvx16"
-  ],
+  "PACKAGES_GALAXY_Z_FLIP5": [],
   "PACKAGES_GALAXY_Z_FLIP5_DEVICE": {
     "profile_name": "GALAXY_Z_FLIP5",
     "MANUFACTURER": "Samsung",
@@ -168,9 +142,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_GALAXY_Z_FOLD5": [
-    "com.facebook.rvx15"
-  ],
+  "PACKAGES_GALAXY_Z_FOLD5": [],
   "PACKAGES_GALAXY_Z_FOLD5_DEVICE": {
     "profile_name": "GALAXY_Z_FOLD5",
     "MANUFACTURER": "Samsung",
@@ -181,9 +153,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kalama"
   },
-  "PACKAGES_LEGION_Y700_(2023)": [
-    "com.facebook.thiemhue"
-  ],
+  "PACKAGES_LEGION_Y700_(2023)": [],
   "PACKAGES_LEGION_Y700_(2023)_DEVICE": {
     "profile_name": "LEGION_Y700_(2023)",
     "MANUFACTURER": "Lenovo",
@@ -194,9 +164,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kona"
   },
-  "PACKAGES_ONEPLUS_13": [
-    "com.facebook.steven"
-  ],
+  "PACKAGES_ONEPLUS_13": [],
   "PACKAGES_ONEPLUS_13_DEVICE": {
     "profile_name": "ONEPLUS_13",
     "MANUFACTURER": "OnePlus",
@@ -207,9 +175,7 @@
     "PLATFORM": "",
     "CHIPNAME": "sun"
   },
-  "PACKAGES_ONEPLUS_8_PRO_5G": [
-    "flar2.devcheck"
-  ],
+  "PACKAGES_ONEPLUS_8_PRO_5G": [],
   "PACKAGES_ONEPLUS_8_PRO_5G_DEVICE": {
     "profile_name": "ONEPLUS_8_PRO_5G",
     "MANUFACTURER": "OnePlus",
@@ -220,9 +186,7 @@
     "PLATFORM": "",
     "CHIPNAME": "kona"
   },
-  "PACKAGES_PIXEL_6": [
-    "com.facebook.rvx1"
-  ],
+  "PACKAGES_PIXEL_6": [],
   "PACKAGES_PIXEL_6_DEVICE": {
     "profile_name": "PIXEL_6",
     "MANUFACTURER": "Google",
@@ -233,9 +197,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs101"
   },
-  "PACKAGES_PIXEL_6A": [
-    "com.facebook.rvx3"
-  ],
+  "PACKAGES_PIXEL_6A": [],
   "PACKAGES_PIXEL_6A_DEVICE": {
     "profile_name": "PIXEL_6A",
     "MANUFACTURER": "Google",
@@ -246,9 +208,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs101"
   },
-  "PACKAGES_PIXEL_6_PRO": [
-    "com.facebook.rvx2"
-  ],
+  "PACKAGES_PIXEL_6_PRO": [],
   "PACKAGES_PIXEL_6_PRO_DEVICE": {
     "profile_name": "PIXEL_6_PRO",
     "MANUFACTURER": "Google",
@@ -260,9 +220,7 @@
     "CHIPNAME": "gs101",
     "Debug": true
   },
-  "PACKAGES_PIXEL_7": [
-    "com.facebook.rvx4"
-  ],
+  "PACKAGES_PIXEL_7": [],
   "PACKAGES_PIXEL_7_DEVICE": {
     "profile_name": "PIXEL_7",
     "MANUFACTURER": "Google",
@@ -273,9 +231,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs201"
   },
-  "PACKAGES_PIXEL_7A": [
-    "com.facebook.rvx6"
-  ],
+  "PACKAGES_PIXEL_7A": [],
   "PACKAGES_PIXEL_7A_DEVICE": {
     "profile_name": "PIXEL_7A",
     "MANUFACTURER": "Google",
@@ -286,9 +242,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs201"
   },
-  "PACKAGES_PIXEL_7_PRO": [
-    "com.facebook.rvx5"
-  ],
+  "PACKAGES_PIXEL_7_PRO": [],
   "PACKAGES_PIXEL_7_PRO_DEVICE": {
     "profile_name": "PIXEL_7_PRO",
     "MANUFACTURER": "Google",
@@ -299,9 +253,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs201"
   },
-  "PACKAGES_PIXEL_8": [
-    "com.facebook.rvx7"
-  ],
+  "PACKAGES_PIXEL_8": [],
   "PACKAGES_PIXEL_8_DEVICE": {
     "profile_name": "PIXEL_8",
     "MANUFACTURER": "Google",
@@ -312,9 +264,7 @@
     "PLATFORM": "",
     "CHIPNAME": "zuma"
   },
-  "PACKAGES_PIXEL_8_PRO": [
-    "com.facebook.rvx8"
-  ],
+  "PACKAGES_PIXEL_8_PRO": [],
   "PACKAGES_PIXEL_8_PRO_DEVICE": {
     "profile_name": "PIXEL_8_PRO",
     "MANUFACTURER": "Google",
@@ -325,9 +275,7 @@
     "PLATFORM": "",
     "CHIPNAME": "zuma"
   },
-  "PACKAGES_PIXEL_9_PRO": [
-    "com.facebook.phuongthao"
-  ],
+  "PACKAGES_PIXEL_9_PRO": [],
   "PACKAGES_PIXEL_9_PRO_DEVICE": {
     "profile_name": "PIXEL_9_PRO",
     "MANUFACTURER": "Google",
@@ -338,9 +286,7 @@
     "PLATFORM": "",
     "CHIPNAME": "zumapro"
   },
-  "PACKAGES_PIXEL_9_PRO_FOLD": [
-    "com.facebook.phuongloan"
-  ],
+  "PACKAGES_PIXEL_9_PRO_FOLD": [],
   "PACKAGES_PIXEL_9_PRO_FOLD_DEVICE": {
     "profile_name": "PIXEL_9_PRO_FOLD",
     "MANUFACTURER": "Google",
@@ -351,9 +297,7 @@
     "PLATFORM": "",
     "CHIPNAME": "zumapro"
   },
-  "PACKAGES_PIXEL_9_PRO_XL": [
-    "com.facebook.thoitiet"
-  ],
+  "PACKAGES_PIXEL_9_PRO_XL": [],
   "PACKAGES_PIXEL_9_PRO_XL_DEVICE": {
     "profile_name": "PIXEL_9_PRO_XL",
     "MANUFACTURER": "Google",
@@ -364,11 +308,7 @@
     "PLATFORM": "",
     "CHIPNAME": "zumapro"
   },
-  "PACKAGES_PIXEL_10_PRO_XL": [
-    "com.facebook.ksht",
-    "com.google.android.apps.subscriptions.red",
-    "com.facebook.orca"
-  ],
+  "PACKAGES_PIXEL_10_PRO_XL": [],
   "PACKAGES_PIXEL_10_PRO_XL_DEVICE": {
     "profile_name": "PIXEL_10_PRO_XL",
     "MANUFACTURER": "Google",
@@ -379,9 +319,7 @@
     "PLATFORM": "",
     "CHIPNAME": "laguna"
   },
-  "PACKAGES_PIXEL_FOLD": [
-    "com.facebook.chilan"
-  ],
+  "PACKAGES_PIXEL_FOLD": [],
   "PACKAGES_PIXEL_FOLD_DEVICE": {
     "profile_name": "PIXEL_FOLD",
     "MANUFACTURER": "Google",
@@ -392,9 +330,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs201"
   },
-  "PACKAGES_PIXEL_TABLET": [
-    "com.facebook.thuylinh"
-  ],
+  "PACKAGES_PIXEL_TABLET": [],
   "PACKAGES_PIXEL_TABLET_DEVICE": {
     "profile_name": "PIXEL_TABLET",
     "MANUFACTURER": "Google",
@@ -405,9 +341,7 @@
     "PLATFORM": "",
     "CHIPNAME": "gs201"
   },
-  "PACKAGES_POCO_F5": [
-    "com.facebook.bachloan"
-  ],
+  "PACKAGES_POCO_F5": [],
   "PACKAGES_POCO_F5_DEVICE": {
     "profile_name": "POCO_F5",
     "MANUFACTURER": "Xiaomi",
@@ -418,9 +352,7 @@
     "PLATFORM": "",
     "CHIPNAME": "crow"
   },
-  "PACKAGES_REALME_15_PRO_5G": [
-    "me.harrygonzalez.simcardinfo"
-  ],
+  "PACKAGES_REALME_15_PRO_5G": [],
   "PACKAGES_REALME_15_PRO_5G_DEVICE": {
     "profile_name": "REALME_15_PRO_5G",
     "MANUFACTURER": "realme",
@@ -442,9 +374,7 @@
     "PLATFORM": "",
     "CHIPNAME": "sm6650"
   },
-  "PACKAGES_REDMAGIC_9_PRO": [
-    "com.facebook.rvx18"
-  ],
+  "PACKAGES_REDMAGIC_9_PRO": [],
   "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
     "profile_name": "REDMAGIC_9_PRO",
     "MANUFACTURER": "nubia",
@@ -455,9 +385,7 @@
     "PLATFORM": "",
     "CHIPNAME": "pineapple"
   },
-  "PACKAGES_REDMAGIC_10_PRO": [
-    "com.facebook.tod"
-  ],
+  "PACKAGES_REDMAGIC_10_PRO": [],
   "PACKAGES_REDMAGIC_10_PRO_DEVICE": {
     "profile_name": "REDMAGIC_10_PRO",
     "MANUFACTURER": "ZTE",
@@ -468,9 +396,7 @@
     "PLATFORM": "",
     "CHIPNAME": "sun"
   },
-  "PACKAGES_RENO8_PRO_5G": [
-    "com.facebook.rvx25"
-  ],
+  "PACKAGES_RENO8_PRO_5G": [],
   "PACKAGES_RENO8_PRO_5G_DEVICE": {
     "profile_name": "RENO8_PRO_5G",
     "MANUFACTURER": "Oppo",
@@ -492,9 +418,7 @@
     "PLATFORM": "",
     "CHIPNAME": "yupik"
   },
-  "PACKAGES_ROG_PHONE_6D_ULTIMATE": [
-    "com.anthropic.claude"
-  ],
+  "PACKAGES_ROG_PHONE_6D_ULTIMATE": [],
   "PACKAGES_ROG_PHONE_6D_ULTIMATE_DEVICE": {
     "profile_name": "ROG_PHONE_6D_ULTIMATE",
     "MANUFACTURER": "ASUS",
